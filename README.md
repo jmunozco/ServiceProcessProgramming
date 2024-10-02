@@ -8,43 +8,43 @@ This project contains examples and exercises for each session of the **Service a
 ```plaintext
 com.mymodule.serviceprocessprogramming
 │
-├── ut1_concurrent_programming           // UT1: Introduction to Concurrent Programming
+├── com.mymodule.serviceprocessprogramming.ut1_concurrent_programming           // UT1: Introduction to Concurrent Programming
 │   ├── examples                         // Practical examples for UT1
 │   ├── exercises                        // Exercises proposed for UT1
-│   └── utils                            // Common utilities for this unit
+│   └── com.mymodule.serviceprocessprogramming.utils                            // Common utilities for this unit
 │
-├── ut2_multiprocess_programming         // UT2: Multiprocess Programming
+├── com.mymodule.serviceprocessprogramming.ut2_multiprocess_programming         // UT2: Multiprocess Programming
 │   ├── examples
 │   ├── exercises
-│   └── utils
+│   └── com.mymodule.serviceprocessprogramming.utils
 │
-├── ut3_multithreaded_programming        // UT3: Multithreaded Programming
+├── com.mymodule.serviceprocessprogramming.ut3_multithreaded_programming        // UT3: Multithreaded Programming
 │   ├── examples
 │   ├── exercises
-│   └── utils
+│   └── com.mymodule.serviceprocessprogramming.utils
 │
-├── ut4_process_communication_sync       // UT4: Process Communication and Synchronization
+├── com.mymodule.serviceprocessprogramming.ut4_process_communication_sync       // UT4: Process Communication and Synchronization
 │   ├── examples
 │   ├── exercises
-│   └── utils
+│   └── com.mymodule.serviceprocessprogramming.utils
 │
-├── ut5_client_server_programming        // UT5: Client/Server Programming
+├── com.mymodule.serviceprocessprogramming.ut5_client_server_programming        // UT5: Client/Server Programming
 │   ├── examples
 │   ├── exercises
-│   └── utils
+│   └── com.mymodule.serviceprocessprogramming.utils
 │
-├── ut6_network_services_protocols       // UT6: Network Services and Protocols
+├── com.mymodule.serviceprocessprogramming.ut6_network_services_protocols       // UT6: Network Services and Protocols
 │   ├── examples
 │   ├── exercises
-│   └── utils
+│   └── com.mymodule.serviceprocessprogramming.utils
 │
-├── ut7_secure_programming_cryptography  // UT7: Secure Programming and Cryptography
+├── com.mymodule.serviceprocessprogramming.ut7_secure_programming_cryptography  // UT7: Secure Programming and Cryptography
 │   ├── examples
 │   ├── exercises
-│   └── utils
+│   └── com.mymodule.serviceprocessprogramming.utils
 │
-└── ut8_final_project                    // UT8: Final Integrative Project
+└── com.mymodule.serviceprocessprogramming.ut8_final_project                    // UT8: Final Integrative Project
     ├── examples
     ├── exercises
     ├── project                          // Complete integrative project code
-    └── utils
+    └── com.mymodule.serviceprocessprogramming.utils
