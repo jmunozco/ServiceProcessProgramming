@@ -17,8 +17,7 @@ class CuentaBancaria {
         saldo += cantidad;
         System.out.println("Depositado: " + cantidad + ". Saldo actual: " + saldo);
     }
-
-    public int getSaldo() {
+   public int getSaldo() {
         return saldo;
     }
 }
