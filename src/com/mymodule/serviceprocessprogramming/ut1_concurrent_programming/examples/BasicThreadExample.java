@@ -54,7 +54,7 @@ public class BasicThreadExample {
                 System.out.println("Direct Thread - Count: " + i);
                 try {
                     // Pause the thread for 500 milliseconds.
-                    Thread.sleep(500);
+                    Thread.sleep((int)(Math.random()*10000));
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
