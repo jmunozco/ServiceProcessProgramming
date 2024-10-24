@@ -43,8 +43,10 @@ com.mymodule.serviceprocessprogramming
 │   ├── exercises
 │   └── com.mymodule.serviceprocessprogramming.utils
 │
-└── com.mymodule.serviceprocessprogramming.ut8_final_project                    // UT8: Final Integrative Project
-    ├── examples
-    ├── exercises
-    ├── project                          // Complete integrative project code
-    └── com.mymodule.serviceprocessprogramming.utils
+├── com.mymodule.serviceprocessprogramming.ut8_final_project                    // UT8: Final Integrative Project
+│   ├── examples
+│   ├── exercises
+│   ├── project                          // Complete integrative project code
+│   └── com.mymodule.serviceprocessprogramming.utils
+│
+└── com.mymodule.serviceprocessprogramming.utils                                // common utilities for the whole project
