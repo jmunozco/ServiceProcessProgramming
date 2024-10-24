@@ -20,7 +20,7 @@ public class ThreadCoordinationExampleModified {
     }
 
     /**
-     * Writer task that sends a message to the shared object.
+     * Writer task that sends a message to the shared object
      * It notifies the waiting thread (Reader) that a message is available.
      */
     static class MessageWriter implements Runnable {
